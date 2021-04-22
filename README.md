@@ -10,18 +10,18 @@ https://drive.google.com/file/d/1QFmJF_aNf9H18Mc9g6Eszuuwo9RQz2hA/view
 
 ## Table of Contents
 
-1. [Project description](#1. Project description)
-2. [Configuration Instructions](#2. Configuration Instructions)
-3. [Installation Instructions](#3. Installation Instructions)
-4. [Operating Instructions](#4. Operating Instructions)
-5. [Manifest](#5. Manifest)
-6. [Copyright information](#6. Copyright information)
-7. [Contact information](#7. Contact information)
-8. [Bug list](#8. Bug list)
-9. [Troubleshooting tips](#9. Troubleshooting tips)
-10. [Credits and acknowledgement](#10. Credits and acknowledgement)
-11. [Links for further reading](#11. Links for further reading)
-12. [Change log](# 12. Change log)
+1. Project description
+2. Configuration Instructions
+3. Installation Instructions
+4. Operating Instructions
+5. Manifest
+6. Copyright information
+7. Contact information
+8. Bug list
+9. Troubleshooting tips
+10. Credits and acknowledgement
+11. Links for further reading
+12. Change log
 
 ## 1. Project description
 
