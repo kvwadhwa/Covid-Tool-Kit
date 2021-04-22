@@ -5,7 +5,8 @@
 ![](images/logo.png)
 
 #### Demo
-![](images/demo.gif)
+
+https://drive.google.com/file/d/1QFmJF_aNf9H18Mc9g6Eszuuwo9RQz2hA/view
 
 ## Table of Contents
 
