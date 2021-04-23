@@ -6,7 +6,17 @@
 
 #### Demo
 
-https://drive.google.com/file/d/1QFmJF_aNf9H18Mc9g6Eszuuwo9RQz2hA/view
+**Screening for Covid-19**
+
+![](images/first.gif)
+
+**Quarantine Information**
+
+![](images/second.gif)
+
+**Vaccine eligibility**
+
+![](images/third.gif)
 
 ## Table of Contents
 
